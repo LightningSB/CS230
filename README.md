@@ -2,7 +2,7 @@
 
 ## The Gaming Room Client and Their Software Requirements:
 
-Client: The client is "The Gaming Room."
+Client: The client is "The Gaming Room."\\
 Software Requirement: They wanted to transform "Draw It or Lose It," an Android-only game, into a web-based application to broaden its accessibility. The game should be compatible across multiple platforms, including desktops, laptops, and mobile devices. The core structure of the game, where teams compete to guess what is being drawn, should be retained. Each game, team, and player should have a unique identifier.
 
 ## What Did You Do Particularly Well in Developing This Documentation?
